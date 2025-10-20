@@ -55,6 +55,7 @@ The project focuses on analyzing NVIDIA’s financial performance, forecasting f
 * The DCF model indicates sustained intrinsic value aligned with long-term growth expectations.
 * Visual analytics highlight NVIDIA’s superior capital efficiency relative to peers.
 
+![NVDA Visualiztion](NVDA.png)
 ---
 
 ## Skills Demonstrated
